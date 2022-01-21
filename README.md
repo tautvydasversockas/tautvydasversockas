@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a software engineer from Vilnius, Lithuania. I specialize in back-end technologies with a strong focus on distributed systems and domain-driven design.
+
+I find that the best way to stay up-to-date on software technologies is by participating in various developer community events, conferences, reading books, and writing articles.
+
+I own a software engineering related blog - thehonestcoder.com
+
 <!--
 **tautvydasversockas/tautvydasversockas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
