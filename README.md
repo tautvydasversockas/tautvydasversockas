@@ -21,7 +21,7 @@ I find that the best way to stay up-to-date on software technologies is by parti
 My hobbies include Machine Learning, travelling, and numerous physical activities. I used to dance bachata and practice Muay Thai.
 </p>
 
-### Blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Service Leader Election With .NET and Apache ZooKeeper](https://thehonestcoder.com/service-leader-election-with-net-and-apache-zookeeper/?utm_source=rss&utm_medium=rss&utm_campaign=service-leader-election-with-net-and-apache-zookeeper)
 - [Top 10 Audiobooks to Listen as a Software Engineer](https://thehonestcoder.com/top-10-audiobooks-to-listen-to-as-a-software-engineer/?utm_source=rss&utm_medium=rss&utm_campaign=top-10-audiobooks-to-listen-to-as-a-software-engineer)
