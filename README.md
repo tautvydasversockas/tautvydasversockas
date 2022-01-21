@@ -23,6 +23,11 @@ My hobbies include Machine Learning, travelling, and numerous physical activitie
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Service Leader Election With .NET and Apache ZooKeeper](https://thehonestcoder.com/service-leader-election-with-net-and-apache-zookeeper/?utm_source=rss&utm_medium=rss&utm_campaign=service-leader-election-with-net-and-apache-zookeeper)
+- [Top 10 Audiobooks to Listen as a Software Engineer](https://thehonestcoder.com/top-10-audiobooks-to-listen-to-as-a-software-engineer/?utm_source=rss&utm_medium=rss&utm_campaign=top-10-audiobooks-to-listen-to-as-a-software-engineer)
+- [Once Upon a Time on Valentine’s Day](https://thehonestcoder.com/once-upon-a-time-on-valentines-day/?utm_source=rss&utm_medium=rss&utm_campaign=once-upon-a-time-on-valentines-day)
+- [Choosing the Right Database](https://thehonestcoder.com/choosing-the-right-database/?utm_source=rss&utm_medium=rss&utm_campaign=choosing-the-right-database)
+- [6 Best Ways to Scale Your Systems](https://thehonestcoder.com/6-best-ways-to-scale-your-systems/?utm_source=rss&utm_medium=rss&utm_campaign=6-best-ways-to-scale-your-systems)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">
