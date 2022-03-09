@@ -19,6 +19,8 @@ I am a software engineer from Vilnius, Lithuania. I specialize in back-end techn
 I find that the best way to stay up-to-date on software technologies is by participating in various developer community events, conferences, reading books, and writing articles.
 
 My hobbies include Machine Learning, travelling, and numerous physical activities. I used to dance bachata and practice Muay Thai.
+  
+We all have something that keeps us up at night. Coffee is what keeps me up at night... I'm a coffee addict... <img src="https://media.giphy.com/media/eNwO33cDf7H60uqErv/giphy.gif" width="30">
 </p>
 
 ### Latest blog posts
