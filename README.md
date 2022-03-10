@@ -4,7 +4,7 @@
 </h1>
 <p align="center">
   <em>
-    Software Engineer by heart <img src="https://media.giphy.com/media/WosZgPhSO3bzdVQFOl/giphy.gif" width="30">
+    Software Engineer <img src="https://media.giphy.com/media/WosZgPhSO3bzdVQFOl/giphy.gif" width="30">
     Chapter Lead at <a href="https://danskebank.com/">Danske Bank</a> <img src="https://media.giphy.com/media/bh57P8FnH2ZhLrz0pI/giphy.gif" width="30">
     Writer at <a href="https://thehonestcoder.com/">The Honest Coder</a> <img src="https://media.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif" width="30">
   </em>
