@@ -25,11 +25,11 @@ We all have something that keeps us up at night. Coffee is what keeps me up at n
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Types of Messages in Message-Driven Systems](https://thehonestcoder.com/types-of-messages-in-message-driven-systems/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-messages-in-message-driven-systems)
 - [Building Multilingual Relational Databases: Approaches and Tradeoffs](https://thehonestcoder.com/building-multilingual-relational-databases/?utm_source=rss&utm_medium=rss&utm_campaign=building-multilingual-relational-databases)
-- [Redpanda – A New Cool Kid on the Event Streaming Block](https://thehonestcoder.com/redpanda-a-new-cool-kid-on-the-event-streaming-block/?utm_source=rss&utm_medium=rss&utm_campaign=redpanda-a-new-cool-kid-on-the-event-streaming-block)
+- [Redpanda - A New Cool Kid on the Event Streaming Block](https://thehonestcoder.com/redpanda-a-new-cool-kid-on-the-event-streaming-block/?utm_source=rss&utm_medium=rss&utm_campaign=redpanda-a-new-cool-kid-on-the-event-streaming-block)
 - [Service Leader Election With .NET and Apache ZooKeeper](https://thehonestcoder.com/service-leader-election-with-net-and-apache-zookeeper/?utm_source=rss&utm_medium=rss&utm_campaign=service-leader-election-with-net-and-apache-zookeeper)
 - [Top 10 Audiobooks to Listen as a Software Engineer](https://thehonestcoder.com/top-10-audiobooks-to-listen-to-as-a-software-engineer/?utm_source=rss&utm_medium=rss&utm_campaign=top-10-audiobooks-to-listen-to-as-a-software-engineer)
-- [Once Upon a Time on Valentine’s Day](https://thehonestcoder.com/once-upon-a-time-on-valentines-day/?utm_source=rss&utm_medium=rss&utm_campaign=once-upon-a-time-on-valentines-day)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">
