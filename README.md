@@ -25,11 +25,11 @@ We all have something that keeps us up at night. Coffee is what keeps me up at n
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Message Metadata Patterns Every Developer Should Know](https://thehonestcoder.com/7-message-metadata-patterns/)
 - [Sending Large Files in Message-Driven Systems](https://thehonestcoder.com/sending-large-files-in-message-driven-systems/)
 - [Types of Messages in Message-Driven Systems](https://thehonestcoder.com/types-of-messages-in-message-driven-systems/)
 - [Building Multilingual Relational Databases: Approaches and Tradeoffs](https://thehonestcoder.com/building-multilingual-relational-databases/)
 - [Redpanda - A New Cool Kid on the Event Streaming Block](https://thehonestcoder.com/redpanda-a-new-cool-kid-on-the-event-streaming-block/)
-- [Service Leader Election With .NET and Apache ZooKeeper](https://thehonestcoder.com/service-leader-election-with-net-and-apache-zookeeper/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">
