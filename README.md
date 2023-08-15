@@ -4,9 +4,9 @@
 </h1>
 <p align="center">
   <em>
-    Software Engineer <img src="https://media.giphy.com/media/WosZgPhSO3bzdVQFOl/giphy.gif" width="30">
-    Chapter Lead at <a href="https://danskebank.com/">Danske Bank</a> <img src="https://media.giphy.com/media/bh57P8FnH2ZhLrz0pI/giphy.gif" width="30">
-    Writer at <a href="https://thehonestcoder.com/">The Honest Coder</a> <img src="https://media.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif" width="30">
+    Software Engineer <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="30"> 
+    Chapter Lead at <a href="https://danskebank.com/">Danske Bank</a> <img src="https://media.giphy.com/media/bh57P8FnH2ZhLrz0pI/giphy.gif" width="30"> 
+    Writer at <a href="https://thehonestcoder.com/">The Honest Coder</a> <img src="https://media.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif" width="30"> 
   </em>
 </p>
 
@@ -16,10 +16,12 @@
 <p>
 I am a software engineer from Vilnius, Lithuania. I specialize in back-end technologies with a strong focus on distributed systems and domain-driven design.
 
-I find that the best way to stay up-to-date on software technologies is by participating in various developer community events, conferences, reading books, and writing articles.
+I own a software engineering blog - <a href="https://thehonestcoder.com/">The Honest Coder</a>
 
-My hobbies include Machine Learning, travelling, and numerous physical activities. I used to dance bachata and practice Muay Thai.
-  
+I speak publicly about tech. More info at <a href="https://thehonestcoder.com/meet-me">The Honest Coder</a>
+
+I love travelling. I used to dance bachata and practice Muay Thai. I am now learning to play tennis.
+
 We all have something that keeps us up at night. Coffee is what keeps me up at night... I'm a coffee addict... <img src="https://media.giphy.com/media/eNwO33cDf7H60uqErv/giphy.gif" width="30">
 </p>
 
