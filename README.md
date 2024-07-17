@@ -4,9 +4,9 @@
 </h1>
 <p align="center">
   <em>
-    Software Engineer <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="30"> 
-    Chapter Lead at <a href="https://danskebank.com/">Danske Bank</a> <img src="https://media.giphy.com/media/bh57P8FnH2ZhLrz0pI/giphy.gif" width="30"> 
-    Writer at <a href="https://thehonestcoder.com/">The Honest Coder</a> <img src="https://media.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif" width="30"> 
+    Software Engineer <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="30">  - 
+    Chapter Lead at <a href="https://danskebank.com/">Danske Bank</a> <img src="https://media.giphy.com/media/bh57P8FnH2ZhLrz0pI/giphy.gif" width="30">  -
+    Writer at <a href="https://thehonestcoder.com/">The Honest Coder</a> <img src="https://media.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif" width="30">
   </em>
 </p>
 
@@ -14,7 +14,9 @@
   About me
 </h3>
 <p>
-I am a software engineer from Vilnius, Lithuania. I specialize in back-end technologies with a strong focus on distributed systems and domain-driven design.
+I am a tech lead from Vilnius, Lithuania. I specialize in back-end technologies with a strong focus on distributed systems and domain-driven design.
+
+I have a proven track record of building and leading global cross-functional teams.
 
 I own a software engineering blog - <a href="https://thehonestcoder.com/">The Honest Coder</a>
 
@@ -33,24 +35,6 @@ We all have something that keeps us up at night. Coffee is what keeps me up at n
 - [Types of Messages in Message-Driven Systems](https://thehonestcoder.com/types-of-messages-in-message-driven-systems/)
 - [Building Multilingual Relational Databases: Approaches and Tradeoffs](https://thehonestcoder.com/building-multilingual-relational-databases/)
 <!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">
-  Connect with me
-</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/tautvydasversockas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tautvydasversockas" height="30" width="40" />
-  </a>
-    <a href="https://twitter.com/TheHonestCoder" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tautvydasversockas" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@tautvydasversockas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tautvydasversockas" height="30" width="40" />
-  </a>
-  <a href="https://thehonestcoder.com/feed/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://thehonestcoder.com/feed/" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">
   Support
