@@ -34,11 +34,11 @@ We all have something that keeps us up at night. Coffee is what keeps me up at n
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [From WordPress to Publii: Why I Made the Switch](https://thehonestcoder.com/wordpress-to-publii-switch/)
 - [How to Sabotage Your Software Company in 10 Easy Steps &lpar;Without Getting Caught&rpar;](https://thehonestcoder.com/sabotage-your-company/)
 - [Domain-Driven Design With Entity Framework Core 8](https://thehonestcoder.com/ddd-ef-core-8/)
 - [7 Message Metadata Patterns Every Developer Should Know](https://thehonestcoder.com/7-message-metadata-patterns/)
 - [Sending Large Files in Message-Driven Systems](https://thehonestcoder.com/sending-large-files-in-message-driven-systems/)
-- [Types of Messages in Message-Driven Systems](https://thehonestcoder.com/types-of-messages-in-message-driven-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">
